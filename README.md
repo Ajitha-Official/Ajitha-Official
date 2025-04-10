@@ -62,3 +62,12 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 </tbody>
 </table>
 
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+pnpm install
+
+npx vercel dev
+
+ ?type=vertical 
+ 
