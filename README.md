@@ -22,9 +22,11 @@ not quote
 Quote backtrick
 
 '''
+
 this is a block
 block
 npsp - non breaking space
+
 '''
 
 nbsp - non breaking space
@@ -33,7 +35,7 @@ git status
 git commit
 git add
 
-#0969DA color
+# 0969DA color
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
