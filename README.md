@@ -14,15 +14,21 @@ You can click the Preview link to take a look at your changes.
 **Bold**
 _Italic_
 ~~Strikethrough~~
+
 > its a quote
+
 not quote
 
 Quote backtrick
+
 '''
 this is a block
 block
 npsp - non breaking space
 '''
+
+nbsp - non breaking space
+
 git status
 git commit
 git add
